@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+![Visitor Count](https://komarev.com/ghpvc/?username=phat-kafi&color=blue)
 **phat-kafi/phat-kafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
