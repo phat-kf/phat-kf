@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dante4rt&show_icons=true&theme=algolia" alt="dante4rt's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=phat-kafi&show_icons=true&theme=algolia" alt="Fat's GitHub Stats"/>
 </p>
