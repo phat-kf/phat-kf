@@ -1,6 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Fat! 👋</h1>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=phat-kafi&color=blue)
+<p align="center">
+  <a href="https://github.com/dante4rt"><img src="https://komarev.com/ghpvc/?username=phat-kafi&style=flat-square" alt="Profile views"/></a>
+</p>
 
 ### 📊 GitHub Stats:
 
